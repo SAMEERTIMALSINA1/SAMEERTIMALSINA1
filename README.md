@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning different programming languages to pursue my dreams.
 - 💞️ I’m looking to collaborate with a team that is looking to change this gaming industry 
-- 📫 you can contact me through either email or my LinkedIn.
+- 📫 you can contact me through either email or my LinkedIn(St45190@gmail.com and www.linkedin.com/in/sameer-timalsina)
 - 😄 Pronouns: I'm a man of dreams.
 - ⚡ Fun fact: One spacesuit for a NASA astronaut costs $12 million to make.
    Uranus is the only planet to spin on its side. The diameter of Pluto is smaller than the horizontal length of the United States.
