@@ -28,7 +28,7 @@ Hello! I’m **Sameer Timalsina**, a dedicated learner currently exploring Java 
 ## Connect with Me
 
 - 📫 Email: [St451907@gmail.com](mailto:St451907@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)
+- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-timalsina)
 
-Thanks for visiting my profile! Please feel free to explore my repositories and reach out to me. If you'd like to collaborate or chat about software development.
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about software development.
 
