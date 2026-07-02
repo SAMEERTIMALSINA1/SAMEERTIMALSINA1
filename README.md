@@ -19,6 +19,7 @@
 * 💻 Programming as a **side hobby**
 * 🔧 I enjoy building **scripts and small automation tools**
 * 🧠 Always improving my **technical fundamentals**
+* 🌐 Check out my portfolio: [sameer-timalsina.com.np](https://sameer-timalsina.com.np)
 
 ---
 
